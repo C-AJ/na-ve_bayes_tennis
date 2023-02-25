@@ -1,6 +1,6 @@
 #-------------------------------------------------------------------------
-# AUTHOR: your name
-# FILENAME: title of the source file
+# AUTHOR: Austin Celestino
+# FILENAME: naive_bayes.py
 # SPECIFICATION: description of the program
 # FOR: CS 4210- Assignment #2
 # TIME SPENT: how long it took you to complete the assignment
@@ -11,6 +11,7 @@
 
 #importing some Python libraries
 from sklearn.naive_bayes import GaussianNB
+import csv
 
 #reading the training data in a csv file
 #--> add your Python code here
